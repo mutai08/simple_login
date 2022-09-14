@@ -1,3 +1,1 @@
-# flutter_loginpage
-
-A simple Flutter Login project on Flutter.
+A simple Login User Interface on Flutter.
